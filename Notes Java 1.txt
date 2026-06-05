@@ -1,0 +1,56 @@
+-intro Java
+-run java
+-var and datatype
+
+What is JAVA?
+
+Features of Java
+ - Simple and Powerful
+ - Platform Independent language -- (Byte Code) by JVM interpreter .class contain byte code
+ - OOP (Object Orientated Programming)
+ - Robust
+ - Multithreaded
+
+What is JVM, JRE and JDK
+
+Java Virtual Machine
+Java Runtime Environment
+ - JVM , Tools and Lib to run java program
+ - Run only java application
+Java Development Kit
+ - JRE, JVM, Tools & lib, Debugging tool and compliers and other files.
+ - Develop java code and run it
+
+Notepad, Ultra Edit,
+1. save file as .java ext.
+2. open cmd 
+3. compile java program = javac filename.java
+4. run the program after compilation
+ - java filename
+
+IDE - Integrated Development Environment
+ -  Easy to write, debug & run the program
+ -  Eclipse, Netbeans, JCreator, IntelliJ
+
+Eclipse IDE
+  - Remember we need to download proper java version so it supports the Eclipse IDE
+
++++
+
+What is class?
+- Class is a blueprint or template to write java code.
+- Fields and Methods // class members
+	- State
+	- Behavior
+
+
+What is an object --- "main method is an entry point to enter JVM"
+
+Object is major element in class.
+is an instance of the class, has its own state and behavior
+
+Static - Member to Static - Method can be accessed direct in code without object
+non-Static - Member to Static - Method can be accessed only by object ref.
+Static - Member to non-Static - Method can be accessed direct in code without object
+Non-Static - Member to non-Static - Method can be accessed direct in code without object
+
