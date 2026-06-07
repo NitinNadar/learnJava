@@ -1,0 +1,22 @@
+Data types, Methods, Constructors, Types of Operators
+
+Primitive and non-primitive
+
+Boolean, char, byte, etc.
+Class, object etc.
+
+
+Methods: a list of statement, whenever it called exc. the statement inside method one by one ex: println
+
+Constructors: is block of code initialize the newly created object, they are not method and they don’t have any return type, their name should be match with the class name
+
+With arg / without arg
+
+Operators: 
+
+Assignment Op
+Arithmetic Op
+String Concatenation Op
+Relational Op
+Ternary Op
+Increment & decrement Op
