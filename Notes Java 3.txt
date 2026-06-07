@@ -1,0 +1,27 @@
+Types of OOPS Concept.
+
+ -- Inheritance 
+ -- Polymorphism
+ -- Abstraction
+ -- Encapsulation
+ 
+ The process by way one class take the function of other class is known as inheritance, main use of it is reusability of code.
+
+ A single task can be done in multiple ways, i.e. known as polymorphism.
+	- Method over loading -- static
+	- Method over riding -- dynamic
+	
+ Hiding the implementation information, just show only the relevant result is known as abstraction
+	- Abstraction class
+		- Partial abstraction
+		- Both abstract and non-abstract are present
+		- Object cannot be instantiated
+		
+		
+	- Abstraction interface
+		- 100% abstraction
+		- All method are abstract method
+		- Object cannot be instantiated
+		
+		
+Encapsulation - wrapping data, hiding data from the user
