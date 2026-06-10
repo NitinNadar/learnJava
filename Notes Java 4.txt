@@ -1,0 +1,17 @@
+exception handling, control statement, Arrays in java
+
+exception handling:- to handle the run time error we need to use try catch method.
+
+Checked exception -- are checked at compile time -- IOException, SQLException
+unChecked exception --  are checked at run time -- NullPointer, Arithmetic, ArrayIndex...
+Errors -- irrecoverable --- out of memory, jvm error
+
+
+
+control statement -- Decision making
+if // if else // if else if // switch // nested if
+loops - while // do while // for 
+
+
+Arrays:- // datatype[] arrayname = new datatype[size];
+
